@@ -1,0 +1,36 @@
+body{
+    background-color:#F3E0E2 ;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.myform{
+    width: 60%;
+    height: 500px;
+    
+    margin: 150px auto;
+    border-radius: 15px;
+    overflow: hidden;
+    /* box-shadow: x,y,b,s,c; */
+    box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.3);
+    clear: both;
+
+}
+.myform > div{
+    width: 50%;
+    float: left;
+    
+    height: 100%;
+}
+.white{
+    background-color: #FFFFFF;
+
+}
+.red
+{
+    background-image: -webkit-linear-gradient(left,#FF464B,#FF416B);
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 1px #000000;
+    
+    
+}
