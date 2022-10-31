@@ -30,7 +30,7 @@ body{
     background-image: -webkit-linear-gradient(left,#FF464B,#FF416B);
     color: white;
     text-align: center;
-    text-shadow: 2px 2px 1px #000000;
+    text-shadow: 0px 0px 10px rgba(0,0,0,1);
     
     
 }
